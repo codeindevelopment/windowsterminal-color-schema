@@ -15,7 +15,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 ## Getting started
 ### Installation
 #### Manual
-Copy the content of the [`settings.json`](https://github.com/codeindevelopment/windowsterminal-color-schema/settings.json) file into the your windows terminal settings file.
+Copy the content of the [`settings.json`](https://github.com/codeindevelopment/windowsterminal-color-schema/blob/main/settings.json) file into the your windows terminal settings file.
 
 ## Screenshots
 <p align="center"><strong>htop</strong><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-mintty/develop/src/assets/scrot-htop.png"/></p>
